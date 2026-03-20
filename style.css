@@ -1,0 +1,103 @@
+*{
+    margin: 0px; 
+    padding: 0px;
+    box-sizing: border-box;
+}
+.primeiraP {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 60%;
+    height: 40%;
+    background-color: rgb(96, 174, 252);
+    border-radius: 15px;
+    margin-right: 30px;
+}
+.segundoP{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 40%;
+    height: auto;
+    background-color: rgb(96, 174, 252);
+    border-radius: 15px;
+}
+.flex{
+    display: flex;
+}
+.paragrafo {
+    font-size: x-large;
+    margin-left: 0px;
+    margin-top: 50px;
+    color: rgb(0, 15, 153);
+}
+.paragrafo2{
+    font-size: medium;
+    color: rgb(0, 15, 153);
+    margin-left: 10px
+}
+.paragrafo3{
+    font-size: smaller;
+    margin-right: 50px;
+    color: white;
+}
+.lista{
+    background-color: rgb(27, 67, 247);
+    margin-top: 50px;
+    border-radius: 15px;
+    text-align: center;
+    width: 310px;
+    margin-bottom: 30px;
+    color: rgb(255, 255, 255)
+    
+}
+.robo{
+    background-color: blue;
+}
+.foto{
+    width: 300px;
+    height: 350px;
+    margin: 5px;
+}
+.afasta{
+    margin-left: 100px;
+}
+.afasta2{
+    margin-left: 340px;
+}
+
+.caixa{
+    background-color: white;
+    border-radius: 30px;
+    margin-bottom: 50px;
+    margin-top: 30px;
+}
+.processando{
+    background-color: rgb(8, 243, 0);
+    border-radius: 15px;
+    width: 110px;
+    text-align: center;
+    color: white;
+}
+
+.analisando{
+    background-color: rgb(194, 194, 81);
+    border-radius: 15px;
+    width: 110px;
+    text-align: center;
+    color: white;
+}
+
+.negado{
+    background-color: red;
+    border-radius: 15px;
+    width: 110px;
+    text-align: center;
+    color: white;
+}
+.caixabranca{
+    background-color: white;
+    margin: 30px;
+    border-radius: 15px;
+    width: 200px;
+    }
+.robo{
+    width: 200px;
+}
+
